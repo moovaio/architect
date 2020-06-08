@@ -1,5 +1,7 @@
 {
-    "name": "optimus/architect",
+    "name": "moova/optimus-architect",
+    "description":"moova.io fork for esbenp/architect package",
+    "homepage":"https://github.com/moovaio/architect",
     "autoload": {
         "psr-4": {
             "Optimus\\Architect\\": "src/"
